@@ -1,5 +1,6 @@
 Notebooks/093_Attention_Mechanism/wmt-14/
 Notebooks/097_ResNet/cifar-10-batches-py/
 Notebooks/098_U-Net/
-Notebooks/099_YOLO/
-VOC2007
+Notebooks/099_YOLO/PASCAL_VOC
+Notebooks/099_YOLO/voc2007_yolo
+Notebooks/099_YOLO/VOCtest_06-Nov-2007
